@@ -27,10 +27,15 @@ export default function Home() {
 
         <ul className={styles.characters}>
           {characters.map(character => {
+            const image = buildImageUrl(character.image, {
+              cloud: {
+                storageType: 'fetch'
+              }
+            });
             return (
               <li key={character.id}>
                 <a href={character.link}>
-                  <img width="280" src={character.image} alt={character.title} />
+                  <img width="280" src={image} alt={character.title} />
                   <p className={styles.characterTitle}>
                     { character.title }
                   </p>
