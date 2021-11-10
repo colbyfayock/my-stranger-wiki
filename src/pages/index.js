@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { setConfig, buildImageUrl } from 'cloudinary-build-url';
 
 import Layout from '@components/Layout';
 import Container from '@components/Container';
@@ -6,6 +7,10 @@ import Container from '@components/Container';
 import characters from '@data/characters.json';
 
 import styles from '@styles/Home.module.scss'
+
+setConfig({
+  cloudName: 'colbydemo'
+});
 
 export default function Home() {
   return (
