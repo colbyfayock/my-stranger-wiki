@@ -1,4 +1,4 @@
-# Auto Cropping & Resizing Using Face Detection with Cloudinary
+# Auto Cropping & Resizing Images Using Face Detection with Cloudinary
 
 Demo for tutorial [How to Create Thumbnail Images Using Face Detection with Cloudinary](https://www.youtube.com/watch?v=CtCX7oTf2q4)
 
