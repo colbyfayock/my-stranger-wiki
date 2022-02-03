@@ -9,7 +9,7 @@ import characters from '@data/characters.json';
 import styles from '@styles/Home.module.scss'
 
 setConfig({
-  cloudName: process.env.CLOUDINARY_CLOUD_NAME
+  cloudName: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME
 });
 
 export default function Home() {
