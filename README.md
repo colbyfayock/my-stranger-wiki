@@ -2,6 +2,8 @@
 
 Demo for tutorial [How to Create Thumbnail Images Using Face Detection with Cloudinary](https://www.youtube.com/watch?v=CtCX7oTf2q4)
 
+🚀 See Demo: https://my-stranger-wiki.netlify.app/
+
 📝 Article: https://spacejelly.dev/posts/how-to-create-thumbnail-images-using-face-detection-with-cloudinary/
 
 📺 YouTube: https://www.youtube.com/watch?v=CtCX7oTf2q4
