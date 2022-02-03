@@ -1,25 +1,15 @@
-# Stranger Things Wiki Demo
+# Auto Cropping & Resizing Using Face Detection with Cloudinary
 
-## Getting Started
+Demo for tutorial [How to Create Thumbnail Images Using Face Detection with Cloudinary](https://www.youtube.com/watch?v=CtCX7oTf2q4)
 
-- Install dependencies
+📝 Article: https://spacejelly.dev/posts/how-to-create-thumbnail-images-using-face-detection-with-cloudinary/
 
-```
-npx create-next-app my-stranger-wiki -e https://github.com/colbyfayock/demo-stranger-things-wiki
-# or 
-yarn create next-app my-stranger-wiki -e https://github.com/colbyfayock/demo-stranger-things-wiki
-```
+📺 YouTube: https://www.youtube.com/watch?v=CtCX7oTf2q4
 
-- Navigate to your new project
+## More tutorials and walkthroughs
 
-```
-cd my-online-store
-```
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
 
-- Start a local development server
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
 
-```
-npm run dev
-# or
-yarn dev
-```
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
