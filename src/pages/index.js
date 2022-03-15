@@ -30,6 +30,14 @@ export default function Home() {
             const image = buildImageUrl(character.image, {
               cloud: {
                 storageType: 'fetch'
+              },
+              transformations: {
+                resize: {
+                  type: 'thumb',
+                  width: 280,
+                  height: 280,
+                },
+                gravity: 'face'
               }
             });
             return (
